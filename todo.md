@@ -1,19 +1,19 @@
-# Todo List for Chapter 14: The Choice
+# Todo List for Chapter 15: The Aftermath
 
 ## Story Continuity Tasks
-- [x] Review Chapter 13 ending (Victor's confession, station evacuation, heading to Tidefall)
-- [x] Review story outline for Chapter 14 requirements
+- [x] Review Chapter 14 ending (Tide Callers defending Tidefall, summit preparations)
+- [x] Review story outline for Chapter 15 requirements
 - [x] Analyze character arcs and current motivations
 - [ ] Ensure consistency with established world-building elements
 
-## Chapter 14 Development Tasks
-- [ ] Write opening scene showing the group arriving at Tidefall
-- [ ] Develop scene where Elian must choose between saving his father and stopping the failsafe
-- [ ] Create scene showing Mira facing her opportunity for revenge but recognizing greater stakes
-- [ ] Show Sophia working to broadcast evidence of climate crimes to all Haven networks
-- [ ] Develop scene where Mira uses her full Tide Caller abilities to create water barrier protecting evacuation routes
-- [ ] Show Victor facing consequences of his actions as his legacy crumbles
-- [ ] End chapter with critical decision point for all main characters
+## Chapter 15 Development Tasks
+- [ ] Write opening scene showing survivors regrouping at Tidefall
+- [ ] Develop scene showing evidence of corporate climate crimes spreading throughout Haven and Drowned communities
+- [ ] Create scene showing beginning of social and political transformation as power structures shift
+- [ ] Show Mira finding closure regarding her parents' deaths
+- [ ] Develop scene where Elian and Sophia work to redirect Haven resources toward true environmental restoration
+- [ ] Show Tide Callers beginning to emerge publicly, their abilities recognized as evolution rather than aberration
+- [ ] End with epilogue showing first steps toward a more equitable post-flood world with ocean beginning to heal
 
 ## AI Writing Guidelines Implementation
 - [ ] Avoid explicit thematic statements (show philosophical implications through character reactions)
@@ -28,6 +28,6 @@
 - [ ] Create fresh comparisons relevant to character backgrounds
 
 ## Technical Tasks
-- [ ] Create Chapter14.md file in drafts/chapters directory
+- [ ] Create Chapter15.md file in drafts/chapters directory
 - [ ] Commit and push changes to GitHub repository
 - [ ] Update PROGRESS.md and STATE.md after completion
