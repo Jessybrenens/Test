@@ -6,7 +6,8 @@
 - [x] Plot construction
 
 ## Development Phase
-- [ ] Initial draft
+- [x] Initial draft (Chapters 1-4)
+- [ ] Continue draft development (Chapters 5-20)
 - [ ] Feedback integration
 - [ ] Section development
 

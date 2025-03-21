@@ -4,12 +4,13 @@
 - Mira's revenge motivation depends on corporate responsibility for the flood
 - Elian's internal conflict depends on his father's actions and his mother's death
 - Supporting characters' loyalties depend on established social structures
+- Mira and Elian's relationship begins to develop through their first meeting
 
 ## Plot Dependencies
-- Mira and Elian's relationship arc depends on gradual trust development
-- Reversal technology discovery depends on information from multiple sources
-- Final confrontation depends on coalition formation across social classes
-- Resolution depends on moral choices about revenge versus systemic change
+- Mira's discovery of Victor's responsibility directly motivates her targeting him
+- Project Watershed provides the central technological conflict
+- The Sofia Institute's research connects past suppression to present danger
+- Elian's position as Project Director creates access point for Mira's infiltration
 
 ## Thematic Dependencies
 - Environmental consequences manifest through setting and character actions
