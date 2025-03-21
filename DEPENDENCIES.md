@@ -1,7 +1,9 @@
 # Narrative Dependencies
 
 ## Character Dependencies
-- None established
+- Mira's revenge motivation depends on corporate responsibility for the flood
+- Elian's internal conflict depends on his father's actions and his mother's death
+- Supporting characters' loyalties depend on established social structures
 
 ## Plot Dependencies
 - None established

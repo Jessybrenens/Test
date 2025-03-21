@@ -6,8 +6,9 @@
 - Timeline: Established
 
 ## Character State
-- Main characters: Undefined
-- Current motivations: Undefined
+- Main characters: Mira Voss (protagonist), Elian Reeves (deuteragonist)
+- Supporting characters: Victor Reeves, Captain Mercer, Selene Marinos, Kai, Dr. Lydia Chen
+- Current motivations: Established
 
 ## Plot State
 - Current phase: Setup
