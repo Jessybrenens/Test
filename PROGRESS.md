@@ -2,11 +2,11 @@
 
 ## Completed Tasks
 - Fri Mar 21 00:45:40 EDT 2025: Repository initialization
+- Fri Mar 21 00:51:21 EDT 2025: Completed world-building
 
 ## In-Progress Tasks
-- Task planning
+- Character development
 
 ## Upcoming Tasks
-- World-building
-- Character development
 - Plot construction
+- Initial draft development

@@ -1,8 +1,9 @@
 # Current Narrative State
 
 ## World State
-- Setting: Undefined
-- Timeline: Pre-initialization
+- Setting: Flooded Earth, 2150
+- Central location: Tidefall
+- Timeline: Established
 
 ## Character State
 - Main characters: Undefined

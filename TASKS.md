@@ -1,7 +1,7 @@
 # Task Breakdown for Tides of Vengeance
 
 ## Planning Phase
-- [ ] World-building
+- [x] World-building
 - [ ] Character development
 - [ ] Plot construction
 
