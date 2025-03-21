@@ -3,7 +3,7 @@
 ## Planning Phase
 - [x] World-building
 - [x] Character development
-- [ ] Plot construction
+- [x] Plot construction
 
 ## Development Phase
 - [ ] Initial draft
