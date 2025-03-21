@@ -11,8 +11,8 @@
 - Current phase: Initial draft development with improved writing quality
 - Active conflicts: Emerging
 - Narrative arcs: In progress
-- Chapters completed: 1-6, 7-13
-- Current plot point: Victor's confession of climate crimes, station evacuation, and the group heading to Tidefall
+- Chapters completed: 1-6, 7-14
+- Current plot point: Tide Callers defending Tidefall, Victor's confession spreading, and preparations for a summit to establish new protocols for humanity's future
 ## Writing Quality
 - Sensory details: Enhanced to create immersive experience
 - Emotional depth: Improved to show rather than tell character feelings

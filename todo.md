@@ -1,19 +1,19 @@
-# Todo List for Chapter 12: The Reunion
+# Todo List for Chapter 14: The Choice
 
 ## Story Continuity Tasks
-- [x] Review Chapter 11 ending (Mira escaping with data, Elian staying behind)
-- [x] Review story outline for Chapter 12 requirements
+- [x] Review Chapter 13 ending (Victor's confession, station evacuation, heading to Tidefall)
+- [x] Review story outline for Chapter 14 requirements
 - [x] Analyze character arcs and current motivations
 - [ ] Ensure consistency with established world-building elements
 
-## Chapter 12 Development Tasks
-- [ ] Write opening scene showing Sophia's network breaching station communications
-- [ ] Develop scene of Sophia infiltrating the station using underwater access points
-- [ ] Create emotional reunion between Sophia and Elian
-- [ ] Show Victor discovering Sophia is alive
-- [ ] Develop Victor's complex reaction (shock and calculation)
-- [ ] Create scene showing station systems beginning to show critical instabilities
-- [ ] End chapter with warning alarms as modulation field begins to collapse
+## Chapter 14 Development Tasks
+- [ ] Write opening scene showing the group arriving at Tidefall
+- [ ] Develop scene where Elian must choose between saving his father and stopping the failsafe
+- [ ] Create scene showing Mira facing her opportunity for revenge but recognizing greater stakes
+- [ ] Show Sophia working to broadcast evidence of climate crimes to all Haven networks
+- [ ] Develop scene where Mira uses her full Tide Caller abilities to create water barrier protecting evacuation routes
+- [ ] Show Victor facing consequences of his actions as his legacy crumbles
+- [ ] End chapter with critical decision point for all main characters
 
 ## AI Writing Guidelines Implementation
 - [ ] Avoid explicit thematic statements (show philosophical implications through character reactions)
@@ -28,6 +28,6 @@
 - [ ] Create fresh comparisons relevant to character backgrounds
 
 ## Technical Tasks
-- [ ] Create Chapter12.md file in drafts/chapters directory
+- [ ] Create Chapter14.md file in drafts/chapters directory
 - [ ] Commit and push changes to GitHub repository
 - [ ] Update PROGRESS.md and STATE.md after completion
