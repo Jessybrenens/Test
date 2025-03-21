@@ -17,3 +17,9 @@
 - Moral complexity of revenge reinforced through character motivations
 - Hope emerges through potential technological solution and relationship development
 - Symbolism of water and Tidefall reinforces central themes throughout narrative
+
+## Writing Style Dependencies
+- Sensory details enhance immersion in the flooded world setting
+- Emotional depth reveals character motivations without explicit statements
+- Natural dialogue establishes character relationships and advances plot
+- Specific descriptive details reflect character perspective and worldview
