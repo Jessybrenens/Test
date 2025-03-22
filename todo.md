@@ -36,12 +36,22 @@
 - [x] Write Chapter19.md following outline16-20.md
 - [x] Write Chapter20.md following outline16-20.md
 
-## Deep Editing New Chapters
-- [ ] Deep edit Chapter16.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter17.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter18.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter19.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter20.md (remove em dashes, restructure sentences)
+## Chapter 20 Rewrite
+- [ ] Rewrite Chapter 20 (craft tragic eding outined in outline16-20.md)
+
+## Editing Chapters 16-20      
+- [ ] Edit Chapter16.md (use ai_writing_analysis and ai_writing_analysis_showcase.md)
+- [ ] Edit Chapter17.md (use ai_writing_analysis and ai_writing_analysis_showcase.md)
+- [ ] Edit Chapter18.md (use ai_writing_analysis and ai_writing_analysis_showcase.md)
+- [ ] Edit Chapter19.md (use ai_writing_analysis and ai_writing_analysis_showcase.md)
+- [ ] Edit Chapter20.md (use ai_writing_analysis and ai_writing_analysis_showcase.md)
+
+## Deep Editing Chapters 16-20
+- [ ] Deep edit Chapter16.md (remove em dashes and restructure effected sentences)
+- [ ] Deep edit Chapter17.md (remove em dashes and restructure effected sentences)
+- [ ] Deep edit Chapter18.md (remove em dashes and restructure effected sentences)
+- [ ] Deep edit Chapter19.md (remove em dashes and restructure effected sentences)
+- [ ] Deep edit Chapter20.md (remove em dashes and restructure effected sentences)
 
 ## Final Tasks
 - [ ] Combine all chapters into Tides_of_Vengeance.md
