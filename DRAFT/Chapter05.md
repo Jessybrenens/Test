@@ -2,7 +2,7 @@
 
 Moonlight filtered through broken ceiling panels of the abandoned desalination plant, casting silver patterns across rusted machinery. Salt and decay permeated the air, remnants of forgotten technology lingering in Tidefall's outskirts.
 
-Mira arrived an hour early, scouting the perimeter and mapping three escape routes. The pendant of Mediterranean water rested against her collarbone as she positioned herself behind a support column at midnight, main entrance in clear view. The facility's water pipes hummed at the edge of her awareness.
+Mira arrived an hour early, scouting the perimeter and mapping three escape routes. The pendant of Mediterranean water rested against her collarbone as she positioned herself behind a support column at midnight, main entrance in clear view. The pipes thrummed under her touch, a pulse that matched the heat coiling in her gut.
 
 "You move like someone accustomed to being hunted."
 
@@ -44,7 +44,7 @@ The largest screen flickered to life, displaying ocean current patterns similar 
 
 "Project Watershed," Mira said.
 
-Sophia's mouth tightened. "Victor's attempt to play god with what remains of our world." She zoomed in on the North Pacific installation. "But you came for answers about the past, not warnings about the future."
+Sophia's words sharpened, each one clipped as if bitten off. "Victor's attempt to play god with what remains of our world." She zoomed in on the North Pacific installation. "But you came for answers about the past, not warnings about the future."
 
 She lowered herself into a chair, gesturing for Mira to do the same. For a moment, her composed facade cracked, revealing something underneath.
 
@@ -52,11 +52,11 @@ She lowered herself into a chair, gesturing for Mira to do the same. For a momen
 
 "The Sofia Institute—your name."
 
-A nod. "My life's work, before Victor destroyed it." Bitterness edged her voice. "We were close, once. He funded the Institute's early research, championed our findings." Her fingers traced an invisible pattern on the table. "Until the projections threatened corporate interests."
+A nod. "My life's work, before Victor destroyed it." Her gaze slid away, caught in some memory. "We were close, once. He funded the Institute's early research, championed our findings." Her fingers traced an invisible pattern on the table. "Until the projections threatened corporate interests."
 
 "What changed him?"
 
-"Power. Money. Perhaps fear." Sophia's gaze drifted. "Our models predicted not just environmental collapse but societal upheaval. The corporations that had profited from climate destruction would face accountability. Victor chose self-preservation."
+"Power. Money. Perhaps fear." Sophia's expression hardened. "Our models predicted not just environmental collapse but societal upheaval. The corporations that had profited from climate destruction would face accountability. Victor chose self-preservation."
 
 She tapped a command, bringing up a document on screen. "This suppression order he issued in 2063 began the end for the Sofia Institute."
 
@@ -74,7 +74,7 @@ She displayed another document—a security directive bearing Victor's signature
 
 "They disabled the evacuation vessels' navigation systems," Sophia said. "When the sea wall failed ahead of schedule, the ships were trapped in the harbor. Twenty-three vessels. Over four thousand people."
 
-Including her parents. Something molten formed in Mira's chest, grief and rage fusing together. "They murdered them to protect corporate secrets."
+Including her parents. Her chest burned, a heat she couldn't name pressing against her ribs. "They murdered them to protect corporate secrets."
 
 "Yes."
 
@@ -120,7 +120,7 @@ Mira recalled her encounter with Elian at the Haven gathering. His environmental
 
 "I met him," she admitted. "At a Haven gathering. He invited me to consult on Project Watershed's environmental impact assessments."
 
-Surprise flashed across Sophia's face, quickly replaced by calculation. "That's... unexpected. And potentially valuable." She studied Mira with new interest. "What impression did you form of him?"
+Surprise flashed across Sophia's face, quickly replaced by calculation. "That's... unexpected. And potentially valuable." She edged closer, hooked on Mira's every syllable. "What impression did you form of him?"
 
 "Conflicted," Mira said. "Intelligent. Possibly genuine in his environmental concerns. But still his father's son."
 
@@ -156,7 +156,7 @@ The screens cast blue light across their faces as they bent over diagrams, Sophi
 
 "Elian would have both," Mira said.
 
-"Yes. But Victor maintains override protocols." Sophia's mouth tightened. "He trusts his son's expertise, not his judgment."
+"Yes. But Victor maintains override protocols." Sophia's lips wavered, a glint of doubt crossing her gaze. "He trusts his son's expertise, not his judgment."
 
 Mira studied the facility's layout, noting water intake systems, pressure points, structural vulnerabilities. Places where a Tide Caller might exploit the ocean itself to gain entry.
 
@@ -180,7 +180,7 @@ Sophia nodded, leading her toward a different exit than the one she'd entered—
 
 "Your mother would be proud," Sophia said at the threshold, her hand briefly touching Mira's arm. "Not just of what you are, but of what you're choosing to do."
 
-The words followed Mira as she navigated back through Tidefall's awakening pathways, the rising sun turning the endless ocean into a sheet of hammered gold. Her mind raced with new information, new possibilities, new complications.
+The words followed Mira as she navigated back through Tidefall's awakening pathways, the rising sun turning the endless ocean into a sheet of hammered gold. Her thoughts spun, jagged edges snagging on one risk after another.
 
 She had come seeking answers about her parents' death and found a conspiracy spanning decades. She had come seeking revenge against Victor Reeves and found herself enlisted in a mission to prevent another global catastrophe.
 
