@@ -23,7 +23,7 @@
 - [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter08.md
 - [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter09.md
 - [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter10.md
-- [ ] Apply fixes from ai_writing_analysis_showcase.md to Chapter11.md
+- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter11.md
 - [ ] Apply fixes from ai_writing_analysis_showcase.md to Chapter12.md
 - [ ] Apply fixes from ai_writing_analysis_showcase.md to Chapter13.md
 - [ ] Apply fixes from ai_writing_analysis_showcase.md to Chapter14.md
