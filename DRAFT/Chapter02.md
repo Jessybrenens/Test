@@ -6,9 +6,9 @@ Elian Reeves stood at the floor-to-ceiling window of his father's office, watchi
 
 Elian's shoulders tensed before he turned. Victor Reeves sat behind a desk of salvaged redwood, one of the last old-growth trees harvested before the waters claimed them. At sixty-three, Victor's silver hair was precisely cut, spine straight as a carbon rod, eyes sharp as surgical tools.
 
-"I heard every word, Father," Elian replied, forcing his voice steady despite the tightness in his chest. "The southern agricultural platform needs expansion. The Tide Dweller labor dispute requires resolution. The Haven Council seeks our support for increased security measures." He paused. "Did I miss anything?"
+"I heard every word, Father," Elian steadied his voice, though his chest tightened. "The southern agricultural platform needs expansion. The Tide Dweller labor dispute requires resolution. The Haven Council seeks our support for increased security measures." He paused. "Did I miss anything?"
 
-Victor's expression remained unchanged, but his eyes narrowed slightly—the microscopic tell that had cost countless negotiators their advantage.
+Victor's eyes narrowed just enough that the room's chatter faltered, negotiators shifting in their seats.
 
 "You heard. But you weren't listening." Victor jabbed a finger at the holographic report hovering above his desk. "These security measures aren't bureaucratic overreach. Tide Caller infiltration increased twenty-seven percent last quarter. They're becoming bolder, more organized."
 
@@ -42,7 +42,7 @@ Elian bit his tongue. The corporate savior narrative that Haven children learned
 
 "Band-aids," Victor interrupted. "Your restoration projects might green a few rooftops or purify a few square kilometers of ocean, but they don't address the fundamental problem." He gestured toward the horizon, where the sun slipped beneath endless water, leaving a wound of red across the sky. "Seventy-five meters of sea level rise. Billions displaced. Entire nations erased. The world needs more than incremental improvements, Elian. It needs transformation."
 
-Elian's stomach turned. The same corporations that had ignored climate warnings, suppressed research, and prioritized quarterly profits now positioned themselves as humanity's only hope.
+He scrolled through redacted files, each stamp a reminder of the warnings his father's generation had buried for another quarter's gain.
 
 "I'll review the power requirement calculations again," Elian conceded. "Perhaps there's an efficiency we've overlooked."
 
@@ -118,7 +118,7 @@ His private transport waited at the executive dock, sleek lines gleaming under a
 
 He ended the transmission and gazed out at Celestia Haven as his transport navigated between gleaming towers. The floating city's lights reflected in the dark water below, creating twin cities—one of privilege, one of illusion.
 
-Elian's fingers tapped against the armrest, mind racing with connections forming between fragments. His father's memo. The Tide Caller origins. His mother's death. The pieces fit together in ways that made his blood run cold.
+Elian's mind twisted, loyalties knotting against each other. His father's memo. The Tide Caller origins. His mother's death. The pieces fit together in ways that made his blood run cold.
 
 The transport docked at his private residence—a "modest" penthouse by Haven standards. As the door slid open, Elian checked his secure drive, confirming the stolen files remained intact. Tonight, he would add them to his growing collection of evidence. Tomorrow, he would play the dutiful heir at the Watershed Project meeting.
 
