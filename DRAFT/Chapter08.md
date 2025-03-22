@@ -97,9 +97,9 @@ Elian turned fully toward her, his interest sharpening. "Your published research
 
 A warning flared in Mira's mind. He had studied her work closely enough to know what it didn't contain. "Some observations haven't made it to publication yet. Academic journals have become more conservative about climate prediction models since the Acceleration."
 
-"Yes, Haven corporations have effectively discouraged 'alarmist' research." A bitter edge entered his voice. "Another legacy of my father's generation."
+"'Proof's useless if they can just drown it out,' he said, tapping the drive." A bitter edge entered his voice. "Another legacy of my father's generation."
 
-The directness of his criticism caught her off guard. This wasn't the careful corporate heir she'd expected.
+His words landed hard, her breath catching mid-inhale. This wasn't the careful corporate heir she'd expected.
 
 "You disagree with Haven's approach?" she asked, testing his response.
 
@@ -125,7 +125,7 @@ As they concluded, Elian deactivated the displays with a gesture. "Thank you, Dr
 
 "Will your father consider delaying the Atlantic installation based on this analysis?" Mira asked.
 
-Elian's expression darkened. "My father rarely allows scientific concerns to interfere with corporate timelines. But with solid evidence of potential system failure, he may have no choice."
+Elian's voice dipped, a crack slipping through his usual steel. "My father rarely allows scientific concerns to interfere with corporate timelines. But with solid evidence of potential system failure, he may have no choice."
 
 "And if he proceeds anyway?"
 
@@ -164,141 +164,3 @@ The station's secure archives required Haven executive clearance—a restriction
 After verifying she wasn't being monitored, Mira connected Kai's modified data extraction device to a service terminal in a rarely used maintenance corridor. The device bypassed standard security protocols, creating a shadow access point to the archive's lower-priority systems.
 
 The process crawled, each data packet carefully filtered to avoid triggering alerts. Mira kept her awareness extended to the surrounding area, feeling the movement of water through the station's pipes and cooling systems.
-
-After twenty tense minutes, the device displayed a success message. She had access to historical operation logs—not the highest security files, but potentially useful nonetheless.
-
-She searched for New Valencia references, finding a security directive dated September 12, 2097—two days before the sea wall failed. The document bore Victor Reeves's authorization code:
-
-*OPERATION CONTAINMENT: DIRECTIVE 37-B*
-*CLASSIFICATION: LEVEL 3*
-*AUTHORIZATION: V. REEVES*
-
-*Prevent unauthorized evacuation from New Valencia research district. Priority: secure Sofia Institute materials and related climate research. Secondary objective: contain potential information leakage regarding early-phase weather modification experiments.*
-
-*Note: Oceanic Solutions security personnel authorized to disable navigation systems on evacuation vessels 12-29 if necessary to prevent departure with sensitive materials.*
-
-The clinical language couldn't disguise the monstrous calculation: research materials valued above human lives.
-
-Her parents' lives.
-
-She continued searching, finding a follow-up report filed two days after the incident:
-
-*OPERATION CONTAINMENT: AFTER-ACTION REPORT*
-*CLASSIFICATION: LEVEL 3*
-*SUBMITTED BY: SECURITY CHIEF HARMON*
-
-*Evacuation vessels 12-29 successfully contained within harbor when sea wall failed. Estimated casualties: 4,000+. Sofia Institute materials secured from research facilities before flooding. No surviving witnesses to containment operations identified.*
-
-*Recommendation: Maintain official narrative of engineering failure and unexpected storm surge. Reclassify all operation details to prevent future disclosure.*
-
-*Note: V. Reeves has authorized compensation packages for security personnel involved in operation. Standard non-disclosure agreements with enhanced enforcement clauses implemented.*
-
-The dispassionate accounting of mass murder made Mira's blood run cold. Four thousand lives reduced to an "estimated casualties" statistic. Her parents among them, their deaths not an accident but a deliberate corporate action.
-
-She downloaded both documents to her device, careful to leave no trace of her access. This was the evidence they needed—direct proof linking Victor Reeves to the New Valencia sabotage.
-
-As Mira disconnected her device, a subtle change in the water pressure within the nearby pipes alerted her. Someone was approaching. She quickly sealed the maintenance panel and moved toward the intersection, adopting the purposeful walk of someone conducting legitimate work.
-
-She rounded the corner and came face to face with Elian Reeves.
-
-His expression shifted from surprise to something more calculating. "Dr. Voss. This is an unusual area for environmental consultation."
-
-"I was exploring the station layout," Mira replied smoothly. "Getting a better understanding of the facility's structure helps contextualize the environmental data."
-
-"In a restricted maintenance corridor?" His tone remained conversational, but his eyes had hardened. "Without security clearance or an escort?"
-
-"The door wasn't marked as restricted," she said, maintaining her professional demeanor despite the tension coiling in her chest. "If I've violated protocol, I apologize."
-
-Elian studied her for a long moment, his expression unreadable. Then he reached into his pocket and withdrew a small device—a security scanner. "I think it's time we had an honest conversation, Dr. Voss. Or should I say, Mira Voss, daughter of Elena and David Voss, climate scientists lost in the New Valencia incident?"
-
-The corridor seemed to narrow around them, the station's constant hum fading beneath the rush of blood in Mira's ears.
-
-"How did you—"
-
-"My sources are nearly as good as yours appear to be," Elian interrupted. "The question is why the daughter of New Valencia victims is posing as a consultant to access Project Watershed." His voice lowered. "And whether we might actually be working toward the same goal."
-
-The statement caught Mira off guard. Not an accusation, but a suggestion of alliance. Before she could respond, Elian's security device chimed, displaying a message that made his expression darken.
-
-"My father has implemented full security protocols," he said quietly. "Including Tide Caller detection systems throughout the station."
-
-Mira felt the blood drain from her face. The pendant at her neck seemed suddenly heavy, the Mediterranean water responding to her surge of adrenaline.
-
-"We can't have this conversation here," Elian continued, his voice urgent. "Security will be sweeping all maintenance areas within minutes." He hesitated, then made a decision. "My private office has signal dampening. We can speak freely there."
-
-"Why would you help me?" Mira asked, suspicion warring with necessity.
-
-"Because I've spent years gathering evidence of my father's climate crimes," Elian replied, his gray-green eyes meeting hers directly. "Including what really happened at New Valencia."
-
-The revelation hung between them, reshaping everything Mira had assumed about Elian Reeves. Before she could respond, distant footsteps echoed down the corridor—security personnel approaching.
-
-"Decision time, Dr. Voss," Elian said quietly. "Trust me, or take your chances with Haven security."
-
-Mira touched her pendant, feeling the water respond to her awareness. If necessary, she could use her abilities to escape—but doing so would confirm her identity as a Tide Caller and potentially endanger the entire mission.
-
-"Lead the way," she said finally.
-
-They moved swiftly through service corridors, Elian's security clearance opening doors that would have remained sealed to Mira alone. His familiarity with the station's less-traveled routes suggested this wasn't his first time avoiding official scrutiny.
-
-The pendant pulsed against her skin, Mediterranean water responding to her tension. She kept her senses extended, tracking the movement of security teams through the station's water systems. They were being hunted.
-
-"In here," Elian said, gesturing to an unmarked door. It slid open at his approach, revealing a small office with a viewport facing the endless dark of the deep Pacific.
-
-As the door sealed behind them, Elian activated a panel on his desk. A soft hum filled the room—signal dampening technology engaging. "We're secure for now. No surveillance, no monitoring."
-
-Mira maintained distance between them, assessing escape routes. "You knew who I was before tonight."
-
-"I suspected," Elian corrected. "Your credentials were too perfect, your expertise too convenient. When I learned about the Voss scientists at New Valencia..." He shrugged. "The connection seemed unlikely to be coincidence."
-
-"And yet you didn't report me."
-
-"Because I've been waiting for someone like you." Elian's voice carried an intensity that caught her off guard. "Someone with both the motivation and the means to expose what really happened—not just at New Valencia, but with the entire climate catastrophe."
-
-He moved to a hidden panel in the wall, revealing a secure storage compartment. From it, he withdrew a data drive. "I've spent years gathering evidence of corporate climate crimes. Oceanic Solutions, Haven Energy, Global Agri-Corp—all of them knew what was coming decades before the Deluge. All of them actively suppressed research that might have prevented it."
-
-Mira studied him, searching for deception. "Why would Victor Reeves's son work against Haven interests?"
-
-"Because I've seen the cost of corporate power unchecked by conscience." Something haunted flickered in his eyes. "And because I know what my father did at New Valencia. What he's still doing with Project Watershed."
-
-The pendant warmed against her skin as Mira made her decision. "I found the Operation Containment files. Your father ordered the sabotage of evacuation vessels to prevent climate research from reaching the public."
-
-"Yes." Elian's expression hardened. "Four thousand people sacrificed to protect corporate interests. Including your parents."
-
-The blunt acknowledgment struck Mira like a physical blow. "You have proof beyond what I found?"
-
-"Names of security personnel involved. Internal communications discussing the cover-up. Financial records of the 'compensation packages' paid to buy silence." Elian held up the data drive. "Everything needed to expose not just New Valencia, but decades of corporate climate crimes."
-
-"Why haven't you released it?"
-
-"Evidence without leverage is just history," Elian said, echoing Sophia's words so precisely that Mira felt a chill. "The Haven corporations control information flow. They would discredit any accusations, bury any evidence."
-
-"Unless paired with something they can't ignore," Mira said slowly. "Like proof that Project Watershed will trigger catastrophic current disruptions."
-
-Elian's eyes widened slightly. "You know about the system instability."
-
-"I know the modulation technology is fundamentally flawed. That expanding to a multi-station network will create cascading instabilities in global weather patterns." Mira watched his reaction carefully. "What I don't know is whether you're truly willing to stand against your father."
-
-"I've been standing against him for years," Elian replied, a quiet intensity in his voice. "But I needed someone who could access the modulation systems directly. Someone with abilities beyond conventional means."
-
-His gaze dropped to her pendant, then back to her face. "A Tide Caller."
-
-The acknowledgment hung between them, changing everything. Mira felt the water in her pendant respond, recognizing the moment's significance.
-
-"How did you know?" she asked.
-
-"I've studied the phenomenon since the first reports emerged after the Deluge. Humans developing heightened connection to water—evolution accelerated by crisis." Elian's expression softened. "Your reaction to the modulation technology was... distinctive. You sensed its wrongness in ways our instruments can't measure."
-
-Before Mira could respond, his security device chimed with an urgent alert. Elian checked it, his expression darkening.
-
-"Security teams are conducting level-by-level searches. They've identified you as a person of interest." He looked up, decision made. "We need to move. Now."
-
-"Where?"
-
-"The modulation control center. If we can access the core systems, we can demonstrate the instability while simultaneously transmitting the evidence of climate crimes to external networks." Elian's eyes held hers. "But we'll need your abilities to bypass the biometric security."
-
-The mission had evolved beyond Mira's original plan, beyond even Sophia's strategy. But the objective remained the same—expose Victor Reeves's crimes and prevent Project Watershed from causing another global catastrophe.
-
-"Lead the way," she said, the pendant warm against her skin as the Mediterranean water responded to her resolve.
-
-As they prepared to leave the safety of the dampened office, Mira realized her carefully constructed vengeance had transformed into something more complex. The enemy's son had become an unexpected ally. The mission to expose the past now focused equally on preventing future disaster.
-
-And somewhere in the station above them, Victor Reeves was closing the net, hunting for the daughter of scientists whose deaths he had ordered twenty years before.
