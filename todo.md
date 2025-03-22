@@ -23,7 +23,7 @@
 - [x] Deep edit Chapter08.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter09.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter10.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter11.md (remove em dashes, restructure sentences)
+- [x] Deep edit Chapter11.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter12.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter13.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter14.md (remove em dashes, restructure sentences)
