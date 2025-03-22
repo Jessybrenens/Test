@@ -4,11 +4,11 @@ The Global Adaptation Summit convened in Tidefall three months after the Atlanti
 
 Mira observed from a side entrance as Dr. Chen welcomed the delegates. The hall buzzed with diverse languages and attire—Haven officials in their tailored uniforms, coastal community leaders in practical garments adorned with salvaged materials, Tide Callers with their distinctive water pendants now worn openly rather than hidden.
 
-"A year ago, this gathering would have been unimaginable," Sophia commented, joining Mira at her vantage point. "Haven officials sitting as equals with Drowned community representatives."
+Sophia slipped beside Mira. "Last year, this room would've been a pipe dream."
 
 "Necessity creates strange alliances," Mira replied, watching as Victor Reeves entered with his security escort—not prisoners but protectors, given the mixed feelings his presence evoked.
 
-In the months since his confession had been broadcast globally, Victor had become a polarizing figure. To some, particularly in Haven settlements, he was a traitor who had destabilized the only functioning governance system in the post-Deluge world. To others, especially in communities like New Valencia that had been sacrificed, he was still a criminal whose recent actions couldn't erase past crimes. But to a growing number across both Haven and independent settlements, he represented something more complex—the possibility that even those most invested in the old systems could change, could contribute to building something different.
+In Haven outposts, whispers branded him a turncoat, unraveling their fragile order. To others, especially in communities like New Valencia that had been sacrificed, he was still a criminal whose recent actions couldn't erase past crimes. But to a growing number across both Haven and independent settlements, he represented something more complex—the possibility that even those most invested in the old systems could change, could contribute to building something different.
 
 The formal proceedings began with technical presentations—data from the collapsed North Pacific station, analysis of the Atlantic installation's design flaws, evidence of the modulation technology's fundamental incompatibility with oceanic systems. Scientists from Haven and independent communities presented alternative approaches, many building on research that had been suppressed for decades.
 
@@ -44,19 +44,17 @@ Mira studied him, still searching for signs of the corporate titan who had sacri
 
 "Why did you do it?" she asked abruptly. "Release the evidence, confess to everything. You could have maintained deniability, claimed the data was falsified."
 
-Victor gazed out at the ocean for a long moment before responding. "At the North Pacific station, watching it collapse despite all our technological safeguards, seeing the Tide Callers work with the water rather than against it..." He paused, searching for words. "I saw my life's work crumbling, literally and figuratively. Everything I had believed about controlling natural systems, about Haven's approach being the only viable path forward."
+Victor stared at the waves. "I tried to leash this world and lost. Maybe I can help mend it before I'm gone."
 
 He turned to face her fully. "I've spent decades making calculations—which communities to save, which technologies to pursue, which truths to suppress. Always believing the ends justified the means. But in that moment, watching the station collapse despite all our supposed control, I realized my calculations had been fundamentally wrong."
 
 "And now?" Mira asked.
 
-Victor watched the summit delegates through the viewport, his eyes tracking the interactions between Haven officials and independent community representatives. His expression softened as he observed their tentative collaboration.
-
-"I've spent my life trying to control the drowning world," he said quietly. "I failed. But perhaps I can contribute to this new approach before I die."
-
-Another silence fell between them, filled with the gentle sound of water against Tidefall's floating structures.
+Victor stood quiet, his frame small against the sprawl he'd wrought. His eyes tracked the interactions between Haven officials and independent community representatives. His expression softened as he observed their tentative collaboration.
 
 "I don't expect forgiveness," Victor said finally. "Nor should I receive it. But I hope that my remaining years spent dismantling what I built, redirecting Haven's resources toward genuine restoration... I hope that counts for something."
+
+Another silence fell between them, filled with the gentle sound of water against Tidefall's floating structures.
 
 Mira touched the pendant at her throat, feeling the Mediterranean water inside it—the connection to her homeland and parents that had driven her for so long. "It counts," she acknowledged quietly. "Not enough to balance the scales. Nothing could do that. But something."
 
@@ -66,7 +64,7 @@ The memorial ceremony the next day was held on Tidefall's largest platform, spec
 
 Dr. Chen opened the proceedings with a simple statement of purpose: "We gather to remember those lost not to unavoidable tragedy but to deliberate policy. To acknowledge the truth after decades of denial. To honor the dead by ensuring such sacrifices never happen again."
 
-Victor spoke next, his testimony more detailed and specific than his initial confession had been. He named communities, provided exact numbers, acknowledged specific decisions and their consequences. Throughout, his voice remained steady, his responsibility unequivocal.
+Victor's words fell soft, each one a stone sinking deep. His testimony more detailed and specific than his initial confession had been. He named communities, provided exact numbers, acknowledged specific decisions and their consequences. Throughout, his voice remained steady, his responsibility unequivocal.
 
 As he described the calculated sacrifices, the suppressed evacuation warnings, the diverted resources, Mira watched the faces in the crowd. Anger, grief, vindication—emotions long suppressed now finding expression in the open air. Some turned away, unable to bear the details. Others leaned forward, finally hearing the truth they had long suspected.
 
@@ -80,7 +78,7 @@ She touched the pendant at her throat. "For years, I carried their memory as a w
 
 Mira looked out over the assembled representatives, meeting the eyes of survivors like herself, of Haven officials now confronting their organization's history, of Tide Callers finally emerging publicly.
 
-The water surrounding Tidefall caught the morning light, rippling with patterns that seemed to echo the emotions flowing through the gathering. Mira gestured toward it, drawing attention to the world they all now shared—not the world before the Deluge, but the one they had inherited and must now steward.
+The water around Tidefall shimmered in the dawn, its ripples tracing the crowd's quiet stir. Mira gestured toward it, drawing attention to the world they all now shared—not the world before the Deluge, but the one they had inherited and must now steward.
 
 She announced the establishment of the Voss Institute for Distributed Adaptation—a new research center that would continue her parents' work, integrating Haven's resources with Drowned communities' innovations and Tide Caller insights.
 
@@ -112,38 +110,6 @@ The three of them stood in silence, watching the vessel disappear into the dista
 
 That evening, as the summit's closing celebration filled Tidefall's central plaza, Kai found Mira observing from a quiet corner. He handed her a cup of tea, gesturing toward where Haven officials and Drowned community members conversed amicably. "From infiltration mission to global summit in less than a year."
 
-"The world was ready for change," Mira replied, accepting the tea. "We just had to create the opening."
+Mira shrugged. "The cracks were there—we pried them wider."
 
-They stood in comfortable silence, watching the celebration unfold. In one area, Tide Callers demonstrated their abilities to fascinated Haven scientists. In another, engineers from both traditions examined hybrid technology prototypes. Children from different settlements played together, inventing games that incorporated elements from multiple cultures.
-
-"What will you do now?" Kai asked eventually. "With the summit concluded, the Voss Institute established, the truth about New Valencia publicly acknowledged?"
-
-Mira considered the question. For so long, her purpose had been clear—infiltrate Haven, expose the truth, obtain justice for New Valencia. That mission was now complete, though not in the way she had originally envisioned. The path ahead was less defined, filled with possibilities rather than a single driving goal.
-
-"Continue the work," she answered finally. "Help develop the Harmony approach. Train new Tide Callers. Build the world my parents envisioned—one where humanity adapts to the drowning world rather than futilely trying to control it."
-
-The next morning, as delegates departed for their respective settlements, Mira met with a group of young Tide Callers who had requested her guidance. Among them was Leila, who had progressed remarkably during the summit.
-
-"We want to establish Tide Caller training centers in other settlements," Leila explained. "To help identify and develop abilities that might otherwise remain dormant or uncontrolled."
-
-"An excellent initiative," Mira approved. "The Voss Institute can provide resources and coordination."
-
-"We were hoping you might contribute something more personal," Leila continued, somewhat hesitantly. "A token, like your pendant, to help establish the connection between centers."
-
-Mira touched the pendant, considering the request. The Mediterranean water inside had been her connection to the past, to her parents, to New Valencia. But perhaps it could serve a different purpose now—connecting the future rather than preserving the past.
-
-She removed the pendant and held it out to Leila. "This water has traveled with me from New Valencia to Haven to Tidefall. It has witnessed the exposure of climate crimes and the beginning of a new approach to adaptation. Now it can continue that journey with you."
-
-Leila accepted the pendant with evident emotion. "I'll honor its history," she promised. "And add new chapters to its story."
-
-"Honor yourself," Mira corrected gently. "Your abilities are a gift to all of us. They represent humanity's capacity to adapt, to evolve, to find new ways of living in a changed world."
-
-As Leila rejoined her fellow young Tide Callers, Mira felt a sense of completion—a circle closing as she passed on not just the pendant but the responsibility and opportunity it represented. Her journey had begun with loss and the quest for justice. It continued now with creation and the building of something new.
-
-The water surrounding Tidefall caught the morning light, rippling with patterns that seemed to echo the emotions flowing through her. Mira extended her awareness into it, feeling the currents and temperatures, the memories and possibilities. Without the pendant, her connection felt different—not diminished but changed, more directly engaged with the present moment rather than anchored to the past.
-
-In the distance, the joint expedition vessel returned from its first mission, data gathered and relationships formed. Nearby, Haven engineers and Drowned community technicians collaborated on retrofitting a water purification system. Above, in what had once been Tidefall University's main tower, the Voss Institute for Distributed Adaptation had begun its work—continuing the research her parents had started decades ago.
-
-Mira stepped to the edge of the platform, her toes curling over its weathered surface. Then, with a fluid movement born of years of practice, she dove into the water. Her body cut through the surface, entering the world her parents had studied, the world that had shaped her life, the world that humanity would continue to adapt to in the generations to come.
-
-The water welcomed her, as it always had.
+Their work had shifted the tides, scars and salvage left behind. The horizon blurred, but their shoulders pressed close. Mira's chest lifted, the sight threading warmth through her. The ocean parted for her dive, a homecoming as sure as breath.
