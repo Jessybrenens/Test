@@ -12,11 +12,11 @@ Mira maintained her distance, positioning herself where she could watch both Eli
 
 "I do." Elian studied her, his expression a complex mixture of caution and what might have been hope. "But first, I need to know who I'm really talking to. Are you Mira Voss, daughter of Elena and David Voss?"
 
-The moment stretched between them, a decision point with no safe path forward. Mira touched her pendant, feeling the water respond to her tension. Partial truth might be her only viable option.
+The quiet thickened, a weight of things they wouldn't say. Mira touched her pendant, feeling the water respond to her tension. Partial truth might be her only viable option.
 
 "Yes," she admitted finally. "My parents died at New Valencia."
 
-"During the evacuation failure." Elian's voice softened slightly. "Which wasn't a failure at all, but a deliberate action authorized by my father."
+"During the evacuation failure." Elian's voice cracked, feeling seeping past his guard. "Which wasn't a failure at all, but a deliberate action authorized by my father."
 
 Mira's pulse quickened. "You know this for certain?"
 
@@ -38,11 +38,11 @@ Mira remained silent, letting him continue. This was information Sophia hadn't s
 
 "And your father couldn't allow that," Mira said, the familiar cold anger settling in her chest.
 
-"No. He authorized Operation Containment. Disabled the evacuation vessels' navigation systems, ensuring they couldn't leave the harbor before the sea wall failed." Elian's voice remained steady, but his hands had clenched at his sides. "Four thousand people sacrificed to protect corporate interests."
+"No. He authorized Operation Containment. Disabled the evacuation vessels' navigation systems, ensuring they couldn't leave the harbor before the sea wall failed." Elian's words spilled from him, rough-edged and unguarded. "Four thousand people sacrificed to protect corporate interests."
 
 Mira studied him, searching for any sign of deception. "Why tell me this? Why risk exposing your own investigation?"
 
-"Because you're here for the same reason I am." Elian met her gaze directly. "To find evidence linking my father to climate crimes and expose the truth about Project Watershed."
+"Because you're here for the same reason I am." Elian's gaze locked onto hers. "To find evidence linking my father to climate crimes and expose the truth about Project Watershed."
 
 The statement hung between them, a bridge across the gulf of suspicion. Mira weighed her options carefully. Complete honesty would mean revealing Sophia's survival—a disclosure that wasn't hers to make. But continuing to hide her true purpose would squander a potential alliance they might desperately need.
 
@@ -50,7 +50,7 @@ The statement hung between them, a bridge across the gulf of suspicion. Mira wei
 
 "But not as an oceanographic consultant." Elian's tone made it a statement rather than a question.
 
-"No." Mira straightened slightly. "Though my knowledge in that area is genuine."
+"No." Mira's spine straightened, a quiet strength locking into place. "Though my knowledge in that area is genuine."
 
 "And you're a Tide Caller." Again, not a question.
 
@@ -68,7 +68,7 @@ Mira made a decision. Not complete disclosure, but enough truth to establish a w
 
 This was new information. "How soon?"
 
-"Construction begins in three weeks. Once the second station comes online, the network effects will amplify any instabilities in the system." Elian's expression grew grim. "We could see hyperstorm formation within months, not years as I originally calculated."
+"Construction begins in three weeks. Once the second station comes online, the network effects will amplify any instabilities in the system." Elian's gaze dimmed, the truth casting a haze over his face. "We could see hyperstorm formation within months, not years as I originally calculated."
 
 Mira absorbed this, recalculating timelines. Sophia's plan had assumed a longer window before the Atlantic installation became operational. "We need to stop it before construction begins."
 
@@ -96,7 +96,7 @@ Mira hadn't expected this level of alignment with their goals. "You'd help expos
 
 The declaration seemed genuine, but Mira maintained her caution. "Why should I trust you?"
 
-"You shouldn't, necessarily." A hint of wry humor touched his expression. "Just as I shouldn't trust someone who infiltrated this facility under false pretenses. But we appear to share common goals, and neither of us can achieve them alone."
+"Not like you have to," he said, a wry twist to his mouth. "Just as I shouldn't trust someone who infiltrated this facility under false pretenses. But we appear to share common goals, and neither of us can achieve them alone."
 
 He had a point. Mira needed access to systems that required his clearance level. And if his father truly was accelerating the timeline for expansion, they faced a more urgent deadline than Sophia had anticipated.
 
@@ -106,7 +106,7 @@ He had a point. Mira needed access to systems that required his clearance level.
 
 It was essentially what Sophia had hoped for—Elian joining their effort willingly. But Mira still hesitated, aware of the complexities involved. "Your father will be implicated directly. He'll likely face criminal charges if we succeed."
 
-"I know." Something like grief passed across Elian's features before his expression settled into resolve. "I made my peace with that possibility years ago, when I first found evidence of his involvement in New Valencia."
+"I know." His mouth twitched, a shadow crossing his face before his jaw set firm. "I made my peace with that possibility years ago, when I first found evidence of his involvement in New Valencia."
 
 Mira studied him, searching for any sign of deception or hidden agenda. She found only determination and what appeared to be genuine ethical conviction. Either Elian Reeves was sincere in his opposition to his father's actions, or he was an exceptionally skilled actor.
 
@@ -139,89 +139,3 @@ Mira considered this. "We'd need a distraction to draw attention away from the s
 "I can arrange that." Elian's expression shifted to something more determined. "There's a scheduled maintenance procedure for the external sensor array tomorrow. I can modify the parameters to trigger a minor alert—nothing dangerous, but enough to divert security attention."
 
 The plan was taking shape, but Mira still had reservations. "What about your father? He'll be watching both of us."
-
-"My father will be focused on the project review and the Atlantic timeline. As long as we maintain our expected roles during the meeting, his attention will be on his announcement, not us." Elian's confidence was either well-founded or dangerously naive. "After the review, I can escort you to the environmental monitoring lab as a logical follow-up to your consultation. From there, we can access the core system data."
-
-Mira weighed the risks against the opportunity. If they succeeded, they would have concrete evidence of Project Watershed's fatal flaws—evidence that could prevent the Atlantic installation and expose Victor Reeves's climate crimes. If they failed, they would likely both face Haven security, with consequences she preferred not to contemplate.
-
-"Alright," she agreed finally. "But we need a contingency plan if something goes wrong."
-
-"I've prepared for that possibility." Elian accessed a secure drawer in his desk, retrieving a small device. "This contains emergency protocols that will grant you access to an escape vessel if necessary. It's registered to my biometrics, but I can transfer authorization."
-
-The level of preparation surprised her. "You've been planning this for some time."
-
-"Years," Elian admitted. "Waiting for the right moment, the right leverage." His eyes met hers. "The right ally."
-
-The word hung between them, laden with implications neither was prepared to address. Mira redirected to practical matters. "I should return to my quarters before my absence raises questions. We'll proceed as discussed tomorrow."
-
-Elian nodded, deactivating the signal dampening field. "One more thing, Mira." His voice had softened slightly. "Whatever happens tomorrow, know that I'm committed to stopping Project Watershed and exposing the truth about New Valencia. Not just for scientific reasons, but because it's the right thing to do."
-
-The sincerity in his voice caught her off guard. For years, she had viewed all Haven leadership as the enemy—particularly anyone named Reeves. Elian was forcing her to reconsider that simplistic division.
-
-"I believe you," she said, surprising herself with the realization that she meant it.
-
-As she left his office, Mira felt the weight of their alliance settling across her shoulders. She had come seeking vengeance against Victor Reeves and found an unexpected ally in his son. The mission had evolved beyond her original parameters, becoming something more complex than simple revenge.
-
-The pendant warmed against her skin as she navigated back to her quarters, avoiding security patrols with the heightened awareness that came with her Tide Caller abilities. Tomorrow would bring either a critical breakthrough or catastrophic failure. Either way, there would be no returning to the careful plans she had made before arriving at the station.
-
----
-
-Victor Reeves stood in the modulation station's command center, surrounded by displays showing the system's operational metrics. Engineers and technicians worked at their stations, their movements precise and efficient under his watchful eye.
-
-"Dr. Chen," he addressed the lead systems engineer. "Prepare for a full diagnostic of the integration protocols. I want to ensure seamless connection capability when we bring the Atlantic installation online."
-
-"Sir?" Dr. Chen's surprise was evident. "The integration testing wasn't scheduled until after the Atlantic station completed initial calibration."
-
-"The schedule has changed." Victor's tone brooked no argument. "Construction begins in three weeks. I want this station fully prepared for immediate network integration once the Atlantic facility comes online."
-
-The command center staff exchanged glances, but no one voiced the concerns evident in their expressions. Victor had selected them for technical expertise combined with appropriate respect for authority. They would follow orders, whatever their private reservations.
-
-"There's one other matter," Victor continued. "Our external consultant, Dr. Voss, will be joining tomorrow's project review. I want her access limited to the environmental data prepared by Dr. Nakamura. Nothing related to the core systems or network integration plans."
-
-"Yes, sir." Dr. Chen made a note on his tablet. "Should we inform Director Reeves of these restrictions?"
-
-Victor's expression hardened slightly at the mention of his son. "I'll handle communication with the Director. Just ensure the technical limitations are in place."
-
-After issuing additional instructions for the system diagnostic, Victor left the command center and made his way to his private quarters. Unlike the functional spaces occupied by most station personnel, his suite featured luxurious appointments befitting his status—imported materials, custom furnishings, and a viewport specially designed to optimize the view of the ocean beyond.
-
-Once inside, he activated his secure communication system, bypassing the station's standard channels to connect directly with Haven security headquarters in Celestia Haven.
-
-"Director Mercer," he said when the connection established. "Status update on our consultant."
-
-"Surveillance is in place, Mr. Reeves." Mercer's voice carried the precision of a career security officer. "Dr. Voss has remained primarily in her quarters reviewing the environmental data, with one notable exception—a meeting with your son on Observation Deck 3 earlier today."
-
-"Content of their discussion?"
-
-"Unknown. The deck's ambient noise dampening prevented clear audio capture. Body language suggested a professional but engaged conversation."
-
-Victor frowned. Elian's interest in the consultant had seemed professional on the surface—seeking external validation for his environmental concerns. But Victor had learned to trust his instincts where potential threats were concerned.
-
-"And her background investigation?"
-
-"Ongoing. The New Valencia connection is confirmed—Elena and David Voss were her parents. We've also identified gaps in her documented history between the evacuation failure and her emergence at Tidefall University. Not unusual for Deluge survivors, but potentially significant given her current position."
-
-"Any connection to known resistance groups?"
-
-A pause. "Nothing confirmed. However, there has been increased communication activity from a node in Tidefall that our analysts have previously flagged as suspicious. Possible correlation with her deployment to the station."
-
-Victor absorbed this, pieces connecting in his mind. If Marina Voss was actually Mira Voss, seeking revenge for her parents' deaths at New Valencia, she might well have allied with one of the anti-Haven groups operating in the margins of the post-flood world. The timing of her consultation, just as Project Watershed prepared for global expansion, suggested more than coincidence.
-
-"Implement full surveillance protocol," Victor ordered. "All communications, all movements. I want to know who she's working with and what she's really after."
-
-"Already in progress, sir. And if we confirm she's a security threat?"
-
-Victor's expression hardened. "Then we contain the threat, Director Mercer. Permanently if necessary."
-
-After ending the transmission, Victor moved to the viewport, staring into the ocean darkness. Project Watershed represented the culmination of his life's work—technology that would cement Haven control over what remained of the world's habitable regions. Control of ocean currents meant control of weather patterns. Control of weather meant control of food production, water access, survival itself.
-
-He had sacrificed too much to allow interference now. Not from external consultants with hidden agendas. Not from resistance groups clinging to outdated notions of climate justice. Not even from his own son, whose environmental concerns had become increasingly problematic.
-
-The ocean pressed against the viewport glass, vast and dark. Somewhere in that darkness lay the future Victor had engineered through decades of calculated decisions. The weak had been sacrificed so the strong could survive. The past had been buried so the future could be controlled.
-
-And he would ensure it remained that way, no matter the cost.
-
-Victor's reflection stared back at him from the viewport—silver-haired, commanding, absolute in his conviction. Behind him, the station's systems hummed with the power to reshape the world. Before him stretched the ocean, waiting to be mastered.
-
-The Atlantic installation would be built. The network would be completed. And Haven would secure its dominance for generations to come.
-
-Even if it meant confronting the ghosts of New Valencia one final time.
