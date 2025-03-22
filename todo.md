@@ -32,7 +32,7 @@
 ## Writing New Chapters
 - [x] Write Chapter16.md following outline16-20.md
 - [x] Write Chapter17.md following outline16-20.md
-- [ ] Write Chapter18.md following outline16-20.md
+- [x] Write Chapter18.md following outline16-20.md
 - [ ] Write Chapter19.md following outline16-20.md
 - [ ] Write Chapter20.md following outline16-20.md
 
