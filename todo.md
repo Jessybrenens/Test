@@ -30,7 +30,7 @@
 - [x] Deep edit Chapter15.md (remove em dashes, restructure sentences)
 
 ## Writing New Chapters
-- [ ] Write Chapter16.md following outline16-20.md
+- [x] Write Chapter16.md following outline16-20.md
 - [ ] Write Chapter17.md following outline16-20.md
 - [ ] Write Chapter18.md following outline16-20.md
 - [ ] Write Chapter19.md following outline16-20.md
