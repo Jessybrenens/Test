@@ -121,15 +121,15 @@ The display showed a corporate memo, its header bearing the logo of Oceanic Solu
 
 He leaned forward, chair creaking. "And the same Victor Reeves who personally ordered the destruction of evacuation vessels during the New Valencia crisis."
 
-The room seemed to tilt around Mira, blood rushing from her face. "New Valencia? You mean—"
+Mira gripped the table edge, her face cold as if the blood had already drained to her boots. "New Valencia? You mean—"
 
 "Your parents' evacuation fleet. Yes." Dr. Reyes's eyes held sorrow and rage, undiminished by time. "I never told you because I couldn't prove it. But my colleague has evidence. Documentation that Oceanic Solutions security forces were instructed to prevent 'unauthorized evacuations' from coastal areas with their research facilities."
 
-"They wanted to control who got out," Mira said, voice hollow. "To protect their intellectual property."
+"They picked who lived," Mira said, her voice a scraped whisper, "just to save their damn secrets."
 
 "And to silence scientists who knew too much." Dr. Reyes nodded, thin hands trembling. "New Valencia housed three research facilities with data that could have implicated major corporations in climate crimes. When sea walls failed ahead of schedule, the evacuation became... inconvenient."
 
-Mira's mind raced, connecting points she'd gathered for years. The Sofia Institute. Victor Reeves. Oceanic Solutions. The quantum drive in Kai's possession.
+Her thoughts spun, jagged edges snagging on one risk after another. The Sofia Institute. Victor Reeves. Oceanic Solutions. The quantum drive in Kai's possession.
 
 "I need to see this evidence," she said, voice steadier than she felt.
 
@@ -149,18 +149,4 @@ Mira's eyes widened. "Reeves? As in—"
 
 He handed her a data drive disguised as an oceanographic instrument. "Study these readings carefully, Ms. Voss. I believe you'll find them quite illuminating for your research."
 
-Mira understood the return to their cover conversation. She took the drive, nodding professionally. "Thank you, Dr. Reyes. I'll analyze these right away."
-
-As she left his office, her fingers tightened around the drive. Victor Reeves. The name burned in her mind like a brand. The man responsible for her parents' death. The man whose company suppressed research that might have prevented catastrophe. The man now developing technology to further manipulate their devastated world.
-
-And his supposedly dead wife was alive—gathering evidence against him.
-
-Mira slipped through crowded pathways, mind calculating possibilities. The coordinates memorized. The meeting tomorrow night. The quantum drive being decrypted. Pieces falling into place after years of searching.
-
-She passed a water recycling station, feeling the liquid respond to her proximity, pressure building in pipes as her emotions surged. She took a deep breath, forcing control. Not here. Not now.
-
-A Haven security drone hovered overhead, its cameras sweeping the crowd. Mira kept her pace steady, expression neutral. Inside, her heart hammered against her ribs. She had a name now. A face. A specific target.
-
-The water pipes hummed as she passed, vibrating with potential energy. Like her resolve. Like her rage.
-
-Victor Reeves would pay. And Project Watershed might be the key to his undoing.
+Mira understood the return to their cover conversation. She took the drive, the edges biting deeper as the truth sank in. "Thank you, Dr. Reyes. I'll analyze these right away."
