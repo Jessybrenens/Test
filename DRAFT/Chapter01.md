@@ -50,15 +50,15 @@ Her head broke the surface two kilometers from her entry point, in a secluded co
 
 Mira pulled herself aboard and removed her breathing apparatus, gulping air that tasted of salt. Afternoon sun warmed her face as she secured her collection bag and started the boat's quiet electric motor. To any passing Haven patrol, she would appear to be just another Drowned scavenger collecting floating garbage.
 
-They wouldn't look closely enough to see high-tech salvage hidden beneath decoy plastic waste. They wouldn't notice how water around her boat moved against prevailing current, speeding her journey.
+They wouldn't look closely enough to see high-tech salvage hidden beneath decoy plastic waste. They wouldn't notice how water around her boat moved against the prevailing current, speeding her journey.
 
 Tidefall appeared on the horizon, a jumble of repurposed structures rising from the water. Mira's fingers traced the outline of the quantum drive through her bag. More than valuable technology. Possibly evidence. Another piece in her years-long puzzle.
 
 Another step toward finding those responsible for her parents' death.
 
-The boat cut through choppy waves, spray hitting her face. Despite her mask of calm, Mira pulsed with frenetic optimism. Her thoughts were consumed by the possibilities before her. If the drive contained what she hoped as she allowed her thoughts their wandering into territories of corporate communications, internal memos, and evacuation priorities, she'd be closer to proving what she'd always known: the flood wasn't natural disaster but calculated sacrifice.
+The boat cut through choppy waves, spray hitting her face. Despite her mask of calm, Mira pulsed with a frenetic optimism. Her thoughts were consumed by the possibilities before her. If the drive contained what she hoped as she allowed her thoughts their wandering into the territories of corporate communications, internal memos, and evacuation priorities, she'd be closer to proving what she'd always known: the flood wasn't natural disaster but calculated sacrifice.
 
-The wealthy had known. They'd saved themselves. Left the rest to drown.
+The wealthy had known. They saved themselves. Left the rest to drown.
 
 Including her parents.
 
