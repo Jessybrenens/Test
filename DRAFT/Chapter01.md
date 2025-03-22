@@ -2,13 +2,13 @@
 
 The water remembered what people forgot.
 
-Mira Voss descended through murky green depths, currents sliding against her skin. Fifty meters down, pressure squeezed her wetsuit tight against her body. She inhaled slowly, savoring the sensation others would find suffocating.
+Mira Voss descended through murky green depths, currents sliding against her skin. At fifty meters, the ocean gripped her wetsuit, a weight she savored where others would choke.
 
 She adjusted the small propulsion unit strapped to her left thigh, flinching as its vibrations hit a nerve. The modified Haven tech had cost her three months of salvage. Worth it. Her muscles ached, but her range extended, oxygen preserved.
 
-Ahead, skeletal remains of Old San Francisco's financial district emerged from the gloom. Skyscrapers jutted from the seafloor like broken teeth. Marine life had claimed these towers—coral bloomed across glass facades, algae draped from steel beams. Silver fish darted through shattered windows where executives once sat.
+Ahead, the financial district loomed ahead, its towers like drowned giants, their glass eyes clouded with algae. Marine life had claimed these towers—coral bloomed across glass facades, algae draped from steel beams. Silver fish darted through shattered windows where executives once sat.
 
-Mira checked her wrist display. Oxygen: 67%. Time: 14:23. Location: Grid sector 8-F. Her heartbeat quickened. Haven security drone patrol wouldn't sweep this area for another forty minutes. Plenty of time, if luck held.
+Mira checked her wrist display. Oxygen: 67%. Time: 14:23. Location: Grid sector 8-F. She pressed a hand to her chest, counting breaths against the forty-minute window before the drones returned.
 
 She navigated toward a partially collapsed building, its corporate logo reduced to faded blue and white shapes. According to her research, this had been headquarters for a data storage company. Their server room might still contain salvageable components. Pre-flood tech fetched premium prices—enough to buy medicine for an entire Drowned settlement.
 
