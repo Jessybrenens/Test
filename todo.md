@@ -27,7 +27,7 @@
 - [x] Deep edit Chapter12.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter13.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter14.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter15.md (remove em dashes, restructure sentences)
+- [x] Deep edit Chapter15.md (remove em dashes, restructure sentences)
 
 ## Writing New Chapters
 - [ ] Write Chapter16.md following outline16-20.md
