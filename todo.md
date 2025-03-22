@@ -15,7 +15,7 @@
 
 ## Deep Editing Chapters 2-15
 - [x] Deep edit Chapter02.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter03.md (remove em dashes, restructure sentences)
+- [x] Deep edit Chapter03.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter04.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter05.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter06.md (remove em dashes, restructure sentences)
