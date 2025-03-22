@@ -19,7 +19,7 @@
 - [x] Deep edit Chapter04.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter05.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter06.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter07.md (remove em dashes, restructure sentences)
+- [x] Deep edit Chapter07.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter08.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter09.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter10.md (remove em dashes, restructure sentences)
