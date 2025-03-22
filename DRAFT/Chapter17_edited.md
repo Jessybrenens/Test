@@ -256,4 +256,4 @@ As the familiar silhouette of Tidefall appeared on the horizon, Mira's resolve h
 
 The skiff cut through the waves, carrying them home with their dangerous cargo of truth. Behind them, somewhere in Haven's secret network of facilities, other Tide Callers might still be suffering as her mother had. Mira would find them, free them, and bring down those responsible, whatever the cost.
 
-The water's still stirred, remembering big ships, laden with heavy gear, maybe a month back.
+The waters still stirred, remembering big ships, laden with heavy gear, maybe a month back.
