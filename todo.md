@@ -25,7 +25,7 @@
 - [x] Deep edit Chapter10.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter11.md (remove em dashes, restructure sentences)
 - [x] Deep edit Chapter12.md (remove em dashes, restructure sentences)
-- [ ] Deep edit Chapter13.md (remove em dashes, restructure sentences)
+- [x] Deep edit Chapter13.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter14.md (remove em dashes, restructure sentences)
 - [ ] Deep edit Chapter15.md (remove em dashes, restructure sentences)
 
