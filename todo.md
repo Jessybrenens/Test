@@ -11,40 +11,23 @@
 - [x] Read character files (Mira.md, Elian.md, Supporting.md)
 - [x] Read world-building files (Location.md, Themes.md, World.md)
 - [x] Read sample chapters to understand writing style
+- [x] Analyze em dash usage in chapters for removal
 
-## Editing Chapters 1-15
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter01.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter02.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter03.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter04.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter05.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter06.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter07.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter08.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter09.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter10.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter11.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter12.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter13.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter14.md
-- [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter15.md
-
-## Deep Editing Chapters 1-15
-- [x] Deep edit Chapter01.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter02.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter03.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter04.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter05.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter06.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter07.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter08.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter09.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter10.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter11.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter12.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter13.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter14.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter15.md using ai_writing_analysis.md principles
+## Deep Editing Chapters 2-15
+- [x] Deep edit Chapter02.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter03.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter04.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter05.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter06.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter07.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter08.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter09.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter10.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter11.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter12.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter13.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter14.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter15.md (remove em dashes, restructure sentences)
 
 ## Writing New Chapters
 - [ ] Write Chapter16.md following outline16-20.md
@@ -54,14 +37,13 @@
 - [ ] Write Chapter20.md following outline16-20.md
 
 ## Deep Editing New Chapters
-- [ ] Deep edit Chapter16.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter17.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter18.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter19.md using ai_writing_analysis.md principles
-- [ ] Deep edit Chapter20.md using ai_writing_analysis.md principles
+- [ ] Deep edit Chapter16.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter17.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter18.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter19.md (remove em dashes, restructure sentences)
+- [ ] Deep edit Chapter20.md (remove em dashes, restructure sentences)
 
 ## Final Tasks
-- [ ] Create .github/workflows/verification.md with quality checklist
 - [ ] Combine all chapters into Tides_of_Vengeance.md
 - [ ] Final review and verification
 - [ ] Commit all changes to GitHub repository
