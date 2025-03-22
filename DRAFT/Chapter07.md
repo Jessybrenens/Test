@@ -1,6 +1,6 @@
 # Chapter 7: The Arrival
 
-Mira stood at the transport's viewport as the North Pacific modulation station grew against endless blue. The facility resembled a massive metal lotus from the surface—a central hub with radiating platforms extending outward like petals, its majority hidden beneath waves.
+Mira stood at the transport's viewport as the North Pacific modulation station grew against endless blue. From above, the station sprawled like a steel bloom, its platforms fanning out to grip the waves.
 
 "Approaching final descent, Dr. Voss. Please secure any loose items," the transport pilot's voice crackled.
 
@@ -22,7 +22,7 @@ Not Elian. Not yet.
 
 Mira gathered her equipment, adopting Dr. Marina Voss's professional demeanor. The persona felt both foreign and familiar after years of preparation. She'd studied oceanography extensively, could discuss post-flood adaptation patterns with genuine expertise. The best covers contained more truth than fiction.
 
-Salt and metal scented the air as the transport door slid open. Wind tugged at her clothes when she stepped onto the platform. Despite stabilizers, the Pacific's moods penetrated the surface levels.
+The platform shivered beneath her boots, the ocean's pulse seeping through the steel. The wind lashed the platform, flinging brine against her skin.
 
 "Dr. Voss," the woman in the lab coat extended her hand. "I'm Dr. Mei Nakamura, lead scientist for Project Watershed. Welcome to the North Pacific modulation station."
 
@@ -78,7 +78,7 @@ A notification appeared on the terminal—a message from Elian Reeves.
 
 Mira read it twice. "Unexpectedly" suggested Elian hadn't planned his father's presence. A warning, perhaps?
 
-The stakes had increased significantly. She would face both Reeves men sooner than anticipated.
+Her fingers tightened on the pendant, the water inside trembling as Victor's name echoed in her head. She'd stepped into his shadow now, no turning back.
 
 Mira prepared, reviewing her cover identity. Dr. Marina Voss had published papers on oceanic adaptation patterns following the Deluge. She had consulted for research institutions, though never directly for Haven corporations. Her academic credentials were impeccable, her professional reputation solid but not exceptional enough to draw undue attention.
 
@@ -106,7 +106,7 @@ His gaze found hers immediately. "Dr. Voss," he approached. "Thank you for accep
 
 "Yes, though there have been some recent developments—" Elian began, interrupted by the conference room doors sliding open.
 
-Victor Reeves entered like a force of nature, his presence commanding attention. Tall and imposing despite his age, silver-haired with cold eyes that assessed everything with calculating precision. Two security officers followed, their uniforms marking them as his personal detail.
+Victor stepped in, and the air bent, voices faltering in his wake. Tall and imposing despite his age, silver-haired with cold eyes that assessed everything with calculating precision. Two security officers followed, their uniforms marking them as his personal detail.
 
 "Director," Victor acknowledged his son before his gaze settled on Mira. "And this must be our external consultant."
 
@@ -114,7 +114,7 @@ Elian revealed nothing, though tension appeared in his shoulders. "Father, this 
 
 "A pleasure, Mr. Reeves," Mira said, voice steady despite the surge beneath. This man was responsible for her parents' death. The architect of Project Watershed. Standing before her, extending his hand.
 
-She took his hand briefly, maintaining her professional mask. Victor's grip was firm, his assessment swift and dismissive—just another specialist, useful but ultimately insignificant.
+She took his hand briefly, maintaining her professional mask. Victor's smile curved, a thin veil over the steel in his eyes—just another specialist, useful but ultimately insignificant.
 
 "Tidefall University," he remarked. "An interesting choice for consultation, Elian. Their research methodologies are rather... traditional."
 
@@ -139,67 +139,3 @@ Victor nodded with satisfaction while Elian's expression remained neutral. Too n
 "Questions?" Nakamura asked.
 
 "The boundary stability readings on slide fourteen," Mira said, keeping her tone professionally curious. "The oscillation pattern shows increasing amplitude at the outer perimeter. Has that trend been consistent?"
-
-Something flickered across Nakamura's face before she controlled it. "We've observed minor fluctuations in boundary stability. Current assessment classifies these as within acceptable parameters."
-
-"Acceptable for current operations," Elian added, meeting Mira's gaze. "Dr. Voss raises a valid point regarding long-term projection, particularly if we expand to a multi-station network."
-
-Victor's attention sharpened. "The fluctuations are a calibration issue, nothing more. The Atlantic and Indian Ocean installations will incorporate refinements based on our experience here."
-
-"Perhaps," Mira said, "but oceanic systems are notoriously complex. Small disruptions can cascade into larger instabilities over time. I'd be interested in reviewing the raw data from the boundary monitoring systems."
-
-The room fell silent, attention shifting between Mira and Victor. She had pushed further than a typical consultant might on first introduction, but within her expertise's bounds.
-
-Victor studied her with new interest. "Your concern is noted, Dr. Voss. Dr. Nakamura will provide access to the relevant datasets." His tone settled the matter. "Continue with the presentation."
-
-The briefing covered operational projections and expansion timelines. Throughout, Mira observed the dynamics between Victor and Elian—the father's absolute certainty versus the son's measured approach. Two versions of authority, one brooking no questions, the other inviting perspective.
-
-When the presentation concluded, Victor rose. "Director, a word in your office," he said to Elian. His gaze swept the room, lingering briefly on Mira before departing, security detail following.
-
-The atmosphere relaxed after his exit, personnel gathering materials with less rigid posture. Elian approached Mira as the room cleared.
-
-"My apologies for the change in circumstances," he said quietly. "My father's visit was... unscheduled."
-
-"No apology necessary," Mira replied. "Though I admit the presentation raised more questions than it answered."
-
-A ghost of a smile touched his lips. "That's precisely why you're here, Dr. Voss. Questions are valuable, especially when they challenge assumptions." He glanced toward the door. "I need to attend to this meeting, but perhaps we could continue our discussion over dinner? The station's facilities are limited, but the view from the upper level dining area is quite remarkable."
-
-The invitation seemed genuine, offering an opportunity to speak more freely away from the formal setting.
-
-"I'd appreciate that," Mira said. "In the meantime, I'd like to review those boundary stability readings in more detail."
-
-"Of course. Dr. Nakamura will provide access." Elian hesitated. "My father values certainty above all else. It makes him... resistant to concerns that might delay his vision."
-
-"And you?" Mira asked, watching his expression.
-
-"I prefer to be certain we're right before proceeding," he answered, his gray-green eyes meeting hers. "Even if that means asking uncomfortable questions."
-
-With that, he excused himself, leaving Mira with the impression that Elian Reeves might be more ally than obstacle.
-
-Nakamura approached as Elian left. "I've transferred the boundary stability data to your access profile. You can review it from your quarters or any research terminal."
-
-"Thank you." Mira gathered her tablet. "The oscillation patterns are concerning. Have you modeled the potential cascade effects if they continue to increase?"
-
-Nakamura glanced around the empty conference room, voice lowering. "Yes. The results weren't included in today's presentation."
-
-"Because they contradict the expansion timeline," Mira suggested.
-
-"You should review the data yourself, Dr. Voss." Nakamura's expression remained neutral, but her eyes conveyed more. "Draw your own conclusions."
-
-As Mira returned to her quarters, she considered the implications. Both Elian and Nakamura seemed aware of problems they weren't openly acknowledging. The station contained more potential allies than Sophia had anticipated.
-
-The pendant warmed against her skin as she accessed the terminal in her quarters. The boundary stability data appeared on screen—raw, unfiltered readings from the modulation system's outer perimeter. The oscillation patterns showed clear progression, amplitude increasing with each operational cycle.
-
-If these trends continued, the system would become dangerously unstable within months, not years. Expanding to a multi-station network would accelerate the process exponentially.
-
-Mira's fingers moved across the interface, diving deeper into the data. The evidence confirmed Sophia's warnings—Project Watershed was fundamentally flawed, its design creating cascading instabilities that would eventually trigger catastrophic current disruptions.
-
-And Victor Reeves was pushing to expand it despite the warning signs.
-
-She closed the files, mind calculating next steps. Tonight's dinner with Elian offered opportunity to assess his awareness of the system's flaws and his willingness to act. Nakamura might provide additional insights into the project's vulnerabilities.
-
-The pendant pulsed against her skin, Mediterranean water responding to her resolve. She had navigated her first encounter with Victor Reeves, established herself as a questioning voice, and potentially identified allies within the project.
-
-But she had also placed herself directly in Victor's line of sight. The calculation in his eyes when she questioned the boundary stability suggested he wouldn't dismiss her as easily as he had in the conference room.
-
-The game had begun in earnest. And the stakes—the future of what remained of their world—couldn't be higher.
