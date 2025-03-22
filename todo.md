@@ -34,7 +34,7 @@
 - [x] Write Chapter17.md following outline16-20.md
 - [x] Write Chapter18.md following outline16-20.md
 - [x] Write Chapter19.md following outline16-20.md
-- [ ] Write Chapter20.md following outline16-20.md
+- [x] Write Chapter20.md following outline16-20.md
 
 ## Deep Editing New Chapters
 - [ ] Deep edit Chapter16.md (remove em dashes, restructure sentences)
