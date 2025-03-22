@@ -1,4 +1,4 @@
-# Chapter 20: Tides of Vengeance
+﻿# Chapter 20: Tides of Vengeance
 
 The return to Tidefall took longer than their outward journey, the vessels moving cautiously through waters still disturbed by the contained Leviathan anomaly. Mira remained by her mother's side throughout, watching over Elena's exhausted sleep while processing the miraculous reality of her survival.
 
