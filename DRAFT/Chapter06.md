@@ -18,15 +18,13 @@ Dr. Nakamura offered a data tablet, her expression neutral save for tightness ar
 
 Once inside his workspace, Elian activated the signal dampener built into his desk. The soft hum provided cover for words that couldn't be overheard.
 
-"The boundary instabilities are worsening," he said. "If we expand to a three-station network as planned—"
+"The boundary instabilities are worsening," Elian said. "Push to three stations, and Mei's models show hyperstorms tearing through convergence zones."
 
-"The cascading effects could trigger hyperstorm formation in the convergence zones," Mei finished, dropping her professional reserve. "I've run the models seven different ways. The timing and intensity vary, but the outcome remains consistent."
-
-Elian rubbed his temples where a headache had been building since morning. "We need more data on the deep current interactions. The models are only as good as their inputs."
+Elian pressed his fingers to his skull, weariness seeping into his marrow. "We need more data on the deep current interactions. The models are only as good as their inputs."
 
 "Which is why your oceanographer consultant is so timely," Mei said, curiosity in her voice. "Dr. Voss, correct? Impressive field experience with post-flood adaptation patterns."
 
-"Yes." Elian kept his expression neutral, though the mention of Mira sent an unexpected ripple of anticipation through him. "She's joining us tomorrow for the preliminary assessment. Her perspective might help us identify what we're missing."
+"Yes." Elian kept his expression neutral, though Mira's name sparked something in him, a twitch beneath his ribs he couldn't place. "She's joining us tomorrow for the preliminary assessment. Her perspective might help us identify what we're missing."
 
 If she was what she appeared to be. The background check had verified her professional credentials, but something about Dr. Marina Voss—Mira—had triggered his instincts during their conversation at the Haven gathering. She'd seemed too perceptive, too immediately focused on the project's environmental implications.
 
@@ -42,7 +40,7 @@ A chime from his communication unit interrupted them—a priority alert from Hav
 
 "My father has moved up the project review. He'll be arriving at the station tomorrow morning." He looked up at Mei. "The same day as Dr. Voss."
 
-"That's... not ideal timing."
+"Hell of a time for him to show up," Mei muttered.
 
 "No, it's not." Elian's mind raced through implications and contingencies. "Prepare two versions of the simulation results. The complete analysis for me, and a... selectively edited version for the official presentation."
 
@@ -56,7 +54,7 @@ It wasn't the first time he'd managed information flow to his father. A necessar
 
 "I'll handle that introduction carefully." Elian stood, signaling the end of their conversation. "Continue the boundary stability tests. Document everything meticulously."
 
-After Mei left, Elian stared at the simulation results. The numbers confirmed what he'd suspected since the project's inception—his father's vision of controlling ocean currents was fundamentally flawed. Not in concept, but in execution and purpose.
+After Mei left, Elian stared at the simulation results. The numbers flickered across the screen, a jagged rhythm hinting at collapse. His father's vision of controlling ocean currents was fundamentally flawed. Not in concept, but in execution and purpose.
 
 Victor Reeves saw Project Watershed as the ultimate expression of Haven dominance—technology that would cement corporate control over what remained of human civilization. Elian had positioned himself as project director to moderate that vision, to ensure the technology served recovery rather than control.
 
