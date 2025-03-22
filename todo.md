@@ -30,7 +30,7 @@
 - [x] Apply fixes from ai_writing_analysis_showcase.md to Chapter15.md
 
 ## Deep Editing Chapters 1-15
-- [ ] Deep edit Chapter01.md using ai_writing_analysis.md principles
+- [x] Deep edit Chapter01.md using ai_writing_analysis.md principles
 - [ ] Deep edit Chapter02.md using ai_writing_analysis.md principles
 - [ ] Deep edit Chapter03.md using ai_writing_analysis.md principles
 - [ ] Deep edit Chapter04.md using ai_writing_analysis.md principles
